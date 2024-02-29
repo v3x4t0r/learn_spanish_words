@@ -10,7 +10,7 @@ This Spanish Learning Game is designed to help users learn and master the 500 mo
 - **Progress Tracking**: Tracks your correct and incorrect answers, adjusting the selection of words accordingly.
 - **Mastery System**: Words answered correctly a certain number of times are considered mastered and excluded from future selection.
 
-## Planned work
+## Planned features
 - **Stars System**: Awards stars for every set of 30 correct answers, resetting upon receiving a wrong answer, to motivate learning.
 
 ## Requirements
