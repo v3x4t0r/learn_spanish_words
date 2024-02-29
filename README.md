@@ -12,6 +12,7 @@ This Spanish Learning Game is designed to help users learn and master the 500 mo
 
 ## Planned features
 - **Stars System**: Awards stars for every set of 30 correct answers, resetting upon receiving a wrong answer, to motivate learning.
+- **Changing Mastery Criteria**: Adjust `CORRECT_ANSWERS_REQUIRED_FOR_MASTERY` in the script to change how many times a word must be answered correctly before it's considered mastered.
 
 ## Requirements
 - Python 3.6 or later
@@ -41,7 +42,6 @@ Your progress (correct and incorrect answers) is saved automatically, allowing y
 
 ## Customizing the Application
 
-- **Changing Mastery Criteria**: Adjust `CORRECT_ANSWERS_REQUIRED_FOR_MASTERY` in the script to change how many times a word must be answered correctly before it's considered mastered.
 - **Modifying the Word List**: Update `words_with_translations.csv` with new words or translations as desired.
 
 ## Contributing
