@@ -36,7 +36,6 @@ pip install kivy pandas numpy
 - Click on one of the two buttons to choose your answer.
 - The application will provide immediate feedback on your choice.
 - Use the "Toggle Review Mode" button to focus on words you find difficult.
-- Your progress is visually represented through the accumulation of stars, which are awarded for correct answers and reset after a wrong answer.
 - Mastered words (answered correctly 4 times in a row) will be excluded from future selections.
 
 ## Data Persistence
