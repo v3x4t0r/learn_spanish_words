@@ -1,5 +1,8 @@
 # Spanish Learning Game
 
+![application](application.png)
+
+
 ## Overview
 This Spanish Learning Game is designed to help users learn and master the 500 most common Spanish words through a flashcard-style quiz application. Built with Python and the Kivy framework, it offers an interactive way to strengthen your vocabulary skills.
 
