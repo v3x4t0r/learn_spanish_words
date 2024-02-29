@@ -24,3 +24,33 @@ Ensure you have Python installed, then install Kivy and Pandas using pip:
 
 ```bash
 pip install kivy pandas numpy
+```
+
+## How to Use
+
+- The application will automatically load a Spanish word for you to translate.
+- Click on one of the two buttons to choose your answer.
+- The application will provide immediate feedback on your choice.
+- Use the "Toggle Review Mode" button to focus on words you find difficult.
+- Your progress is visually represented through the accumulation of stars, which are awarded for correct answers and reset after a wrong answer.
+- Mastered words (answered correctly 4 times in a row) will be excluded from future selections.
+
+## Data Persistence
+
+Your progress (correct and incorrect answers) is saved automatically, allowing you to pick up where you left off in future sessions.
+
+## Customizing the Application
+
+- **Changing Mastery Criteria**: Adjust `CORRECT_ANSWERS_REQUIRED_FOR_MASTERY` in the script to change how many times a word must be answered correctly before it's considered mastered.
+- **Modifying the Word List**: Update `words_with_translations.csv` with new words or translations as desired.
+
+## Contributing
+
+Feel free to fork the repository and submit pull requests to contribute to the development of this learning tool.
+
+## License
+
+[MIT License](LICENSE)
+
+Enjoy enhancing your Spanish vocabulary with our learning game!
+
